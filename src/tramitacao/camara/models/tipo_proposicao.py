@@ -24,7 +24,7 @@ TIPOS_BY_COD: dict[int, TipoProposicaoRef] = {}
 TIPOS_BY_SIGLA: dict[str, list[TipoProposicaoRef]] = {}  # note: sigla -> many
 
 
-def add_tipo(item: dict):
+def add_tipo_proposicao(item: dict):
     ref = TipoProposicaoRef(**item, familia=infer_familia(item["sigla"]))
     TIPOS_BY_COD.setdefault(ref.cod, ref)
     TIPOS_BY_SIGLA.setdefault(ref.sigla, []).append(ref)

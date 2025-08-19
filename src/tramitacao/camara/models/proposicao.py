@@ -1,5 +1,6 @@
 from pydantic import BaseModel, computed_field, ValidationError
 
+from .autor import Autor
 from .tipo_proposicao import TipoProposicaoRef, TIPOS_BY_COD
 from .tramitacao import Tramitacao
 
@@ -12,6 +13,7 @@ class Proposicao(BaseModel):
     numero: int | None = None
     ano: int
     ementa: str
+    autores: list[Autor] = []
     tramitacoes: list[Tramitacao] = []
 
     @computed_field(return_type=TipoProposicaoRef)

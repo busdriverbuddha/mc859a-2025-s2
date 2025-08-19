@@ -1,0 +1,350 @@
+[
+  {
+    "cod": "1",
+    "sigla": "",
+    "nome": "COMISSÃO DIRETORA",
+    "descricao": ""
+  },
+  {
+    "cod": "2",
+    "sigla": "",
+    "nome": "COMISSÃO PERMANENTE",
+    "descricao": ""
+  },
+  {
+    "cod": "3",
+    "sigla": "",
+    "nome": "COMISSÃO ESPECIAL",
+    "descricao": ""
+  },
+  {
+    "cod": "4",
+    "sigla": "",
+    "nome": "COMISSÃO PARLAMENTAR DE INQUÉRITO",
+    "descricao": ""
+  },
+  {
+    "cod": "5",
+    "sigla": "",
+    "nome": "COMISSÃO EXTERNA",
+    "descricao": ""
+  },
+  {
+    "cod": "6",
+    "sigla": "",
+    "nome": "COMISSÃO MISTA PERMANENTE",
+    "descricao": ""
+  },
+  {
+    "cod": "7",
+    "sigla": "",
+    "nome": "COMISSÃO DE SINDICÂNCIA",
+    "descricao": ""
+  },
+  {
+    "cod": "8",
+    "sigla": "",
+    "nome": "COMISSÃO REPRESENTATIVA",
+    "descricao": ""
+  },
+  {
+    "cod": "9",
+    "sigla": "",
+    "nome": "COMISSÃO MEDIDA PROVISÓRIA",
+    "descricao": ""
+  },
+  {
+    "cod": "10",
+    "sigla": "",
+    "nome": "GRUPO DE TRABALHO",
+    "descricao": ""
+  },
+  {
+    "cod": "11",
+    "sigla": "",
+    "nome": "CONSELHO",
+    "descricao": ""
+  },
+  {
+    "cod": "12",
+    "sigla": "",
+    "nome": "PROCURADORIA PARLAMENTAR",
+    "descricao": ""
+  },
+  {
+    "cod": "13",
+    "sigla": "",
+    "nome": "CORREGEDORIA",
+    "descricao": ""
+  },
+  {
+    "cod": "14",
+    "sigla": "",
+    "nome": "OUVIDORIA",
+    "descricao": ""
+  },
+  {
+    "cod": "15",
+    "sigla": "",
+    "nome": "SECRETARIA",
+    "descricao": ""
+  },
+  {
+    "cod": "20",
+    "sigla": "",
+    "nome": "MISTA CPI",
+    "descricao": ""
+  },
+  {
+    "cod": "21",
+    "sigla": "",
+    "nome": "MISTA ESPECIAL",
+    "descricao": ""
+  },
+  {
+    "cod": "22",
+    "sigla": "",
+    "nome": "CONFERÊNCIA",
+    "descricao": ""
+  },
+  {
+    "cod": "25",
+    "sigla": "",
+    "nome": "SUBCOMISSÃO",
+    "descricao": ""
+  },
+  {
+    "cod": "26",
+    "sigla": "",
+    "nome": "Plenário Virtual",
+    "descricao": ""
+  },
+  {
+    "cod": "27",
+    "sigla": "",
+    "nome": "Plenário Virtual CD",
+    "descricao": ""
+  },
+  {
+    "cod": "28",
+    "sigla": "",
+    "nome": "GRUPO DE TRABALHO DE COMISSÕES",
+    "descricao": ""
+  },
+  {
+    "cod": "101",
+    "sigla": "",
+    "nome": "Partido Político",
+    "descricao": ""
+  },
+  {
+    "cod": "102",
+    "sigla": "",
+    "nome": "Bloco Parlamentar",
+    "descricao": ""
+  },
+  {
+    "cod": "103",
+    "sigla": "",
+    "nome": "Governo na CD",
+    "descricao": ""
+  },
+  {
+    "cod": "104",
+    "sigla": "",
+    "nome": "Minoria na CD",
+    "descricao": ""
+  },
+  {
+    "cod": "105",
+    "sigla": "",
+    "nome": "Governo no CN",
+    "descricao": ""
+  },
+  {
+    "cod": "106",
+    "sigla": "",
+    "nome": "Minoria no CN",
+    "descricao": ""
+  },
+  {
+    "cod": "110",
+    "sigla": "",
+    "nome": "Comissão da Câmara dos Deputados",
+    "descricao": ""
+  },
+  {
+    "cod": "121",
+    "sigla": "",
+    "nome": "Maioria na CD",
+    "descricao": ""
+  },
+  {
+    "cod": "122",
+    "sigla": "",
+    "nome": "Oposição na CD",
+    "descricao": ""
+  },
+  {
+    "cod": "123",
+    "sigla": "",
+    "nome": "Maioria no CN",
+    "descricao": ""
+  },
+  {
+    "cod": "124",
+    "sigla": "",
+    "nome": "Oposição no CN",
+    "descricao": ""
+  },
+  {
+    "cod": "200",
+    "sigla": "",
+    "nome": "TEMPORÁRIA",
+    "descricao": ""
+  },
+  {
+    "cod": "1000",
+    "sigla": "",
+    "nome": "Importação das proposições inativas",
+    "descricao": ""
+  },
+  {
+    "cod": "9000",
+    "sigla": "",
+    "nome": "LIDERANÇA DO PMDB",
+    "descricao": ""
+  },
+  {
+    "cod": "10000",
+    "sigla": "",
+    "nome": "Deputado(a)",
+    "descricao": ""
+  },
+  {
+    "cod": "12000",
+    "sigla": "",
+    "nome": "Órgão da Câmara dos Deputados",
+    "descricao": ""
+  },
+  {
+    "cod": "13000",
+    "sigla": "",
+    "nome": "Comissão Temporária da CD",
+    "descricao": ""
+  },
+  {
+    "cod": "20000",
+    "sigla": "",
+    "nome": "Senador(a)",
+    "descricao": ""
+  },
+  {
+    "cod": "21000",
+    "sigla": "",
+    "nome": "Comissão do Senado Federal",
+    "descricao": ""
+  },
+  {
+    "cod": "22000",
+    "sigla": "",
+    "nome": "Órgão do Senado Federal",
+    "descricao": ""
+  },
+  {
+    "cod": "30000",
+    "sigla": "",
+    "nome": "Órgão do Poder Executivo",
+    "descricao": ""
+  },
+  {
+    "cod": "40000",
+    "sigla": "",
+    "nome": "Órgão do Poder Legislativo",
+    "descricao": ""
+  },
+  {
+    "cod": "50000",
+    "sigla": "",
+    "nome": "Órgão do Poder Judiciário",
+    "descricao": ""
+  },
+  {
+    "cod": "70000",
+    "sigla": "",
+    "nome": "Sociedade Civil",
+    "descricao": ""
+  },
+  {
+    "cod": "80000",
+    "sigla": "",
+    "nome": "Liderança",
+    "descricao": ""
+  },
+  {
+    "cod": "81000",
+    "sigla": "",
+    "nome": "Bancada",
+    "descricao": ""
+  },
+  {
+    "cod": "81001",
+    "sigla": "",
+    "nome": "Plenário Virtual CN",
+    "descricao": ""
+  },
+  {
+    "cod": "81002",
+    "sigla": "",
+    "nome": "Comissão Mista",
+    "descricao": ""
+  },
+  {
+    "cod": "81003",
+    "sigla": "",
+    "nome": "PERMANENTE DO SENADO FEDERAL",
+    "descricao": ""
+  },
+  {
+    "cod": "81004",
+    "sigla": "",
+    "nome": "TEMPORÁRIA DO SENADO FEDERAL",
+    "descricao": ""
+  },
+  {
+    "cod": "81005",
+    "sigla": "",
+    "nome": "Gabinete Parlamentar",
+    "descricao": ""
+  },
+  {
+    "cod": "81006",
+    "sigla": "",
+    "nome": "Órgão Remessa Requerimento de Informação",
+    "descricao": ""
+  },
+  {
+    "cod": "81007",
+    "sigla": "",
+    "nome": "MPU - Ministério Público da União",
+    "descricao": ""
+  },
+  {
+    "cod": "81008",
+    "sigla": "",
+    "nome": "DPU - Defensoria Pública da União",
+    "descricao": ""
+  },
+  {
+    "cod": "81009",
+    "sigla": "",
+    "nome": "Partido Político",
+    "descricao": ""
+  },
+  {
+    "cod": "90000",
+    "sigla": "",
+    "nome": "Outro",
+    "descricao": ""
+  }
+]

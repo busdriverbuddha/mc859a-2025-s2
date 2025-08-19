@@ -1,5 +1,4 @@
-{
-  "dados": [
+[
     {
       "cod": "27",
       "sigla": "OF",
@@ -3246,15 +3245,4 @@
       "nome": "Sustação de Andamento de Ação Penal",
       "descricao": ""
     }
-  ],
-  "links": [
-    {
-      "rel": "self",
-      "href": "https://dadosabertos.camara.leg.br/api/v2/referencias/proposicoes/siglaTipo"
-    },
-    {
-      "rel": "collection",
-      "href": "https://dadosabertos.camara.leg.br/api/v2/referencias/proposicoes/"
-    }
-  ]
-}
+]
